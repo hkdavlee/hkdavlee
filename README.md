@@ -11,7 +11,7 @@
   - Managed **petabyte-scale, multimodal data pipelines** 
   - Maintained SQL Data Warehouse and improved pipeline reliability 
 
-- **AI Engineer @ LG Electronics**  
+- **AI Engineer @ LG Electronics** *(Senior Researcher, 2023.07 ~ | Magok, Seoul, South Korea)*
   - Stay updated with cutting-edge AI technologies (MCP, A2A, etc.) and apply them to production workflows  
   - Create and manage Power BI dashboards for data-driven insights  
 
