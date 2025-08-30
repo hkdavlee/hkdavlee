@@ -26,11 +26,4 @@
 - **ML & Vision:** OpenCV, PyTorch, TensorFlow  
 - **DevOps & Automation:** Docker, GitHub Actions, n8n, Airflow, Kubernetes  
 
----
-
-### 🚀 What I Do
-- Build and maintain scalable data infrastructure  
-- Automate workflows with cloud-native solutions  
-- Apply AI/vision techniques to real-world systems  
-
 
