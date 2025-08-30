@@ -5,12 +5,12 @@
 ---
 
 ### 💼 Experience
-- **Data Engineer @ [Company Name]**  
+- **Data Engineer @ [LG Electronics]**  
   - Designed and optimized ETL/ELT pipelines (Azure, MongoDB, PostgreSQL)  
   - Processed large-scale multimodal data (face landmarks, gaze tracking, body keypoints)  
   - Improved system stability and reduced data processing latency  
 
-- **Software Engineer @ [Company Name]**  
+- **Software Engineer @ [LG Electronics]**  
   - Developed backend APIs and microservices (Python, Node.js)  
   - Deployed cloud infrastructure (AWS, Azure) for real-time applications  
   - Collaborated with global teams on driver monitoring & AI vision systems  
