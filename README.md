@@ -1,7 +1,7 @@
-# Hi, I'm Hookyung 👋  🇮🇳 [LinkedIn](https://www.linkedin.com/in/gnrud099/) · ✉ [Email](mailto:lhookyung@gmail.com)  
+# Hi, I'm Hookyung 👋 
 
 
-**Data & AI Engineering**  
+**Data & AI Engineering**   🇮🇳 [LinkedIn](https://www.linkedin.com/in/gnrud099/) · ✉ [Email](mailto:lhookyung@gmail.com)  
 
 ---
 
