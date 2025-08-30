@@ -5,29 +5,25 @@
 ---
 
 ### 💼 Experience
-- **Data Engineer @ [LG Electronics]**  
-  - Designed and optimized ETL/ELT pipelines (Azure, MongoDB, PostgreSQL)  
-  - Processed large-scale multimodal data (face landmarks, gaze tracking, body keypoints)  
-  - Improved system stability and reduced data processing latency  
+- **Data Engineer @ LG Electronics**  
+  - Built and optimized ETL/ELT pipelines (Azure, MongoDB, PostgreSQL)  
+  - Managed **petabyte-scale, multimodal data pipelines** 
+  - Maintained SQL Data Warehouse and improved pipeline reliability 
 
-- **Software Engineer @ [LG Electronics]**  
-  - Developed backend APIs and microservices (Python, Node.js)  
-  - Deployed cloud infrastructure (AWS, Azure) for real-time applications  
-  - Collaborated with global teams on driver monitoring & AI vision systems  
+- **AI Engineer @ LG Electronics**  
+  - Stay updated with cutting-edge AI technologies (MCP, A2A, etc.) and apply them to production workflows  
+  - Create and manage Power BI dashboards for data-driven insights  
 
-- **Engineer Intern @ KETI (Korea Electronics Technology Institute)**  
-  *(2020.01 – 2020.12 | Seongnam, South Korea)*  
-  - Worked on **Object Detection** & **Pose Estimation** models  
-  - Applied **Data Augmentation** to enhance model performance  
-  - Supported applied AI projects for computer vision  
-
+- **Engineer Intern @ KETI** *(2020.01 – 2020.12 | Seongnam, South Korea)*  
+  - Worked on Object Detection & Pose Estimation  
+  - Applied Data Augmentation to improve model performance  
 ---
 
 ### 🛠 Tech Stack
 - **Languages:** Python, JavaScript (Node.js, React)  
 - **Data & Cloud:** Azure, AWS, MongoDB, PostgreSQL  
 - **ML & Vision:** OpenCV, PyTorch, TensorFlow  
-- **DevOps:** Docker, GitHub Actions, n8n  
+- **DevOps & Automation:** Docker, GitHub Actions, n8n, Airflow, Kubernetes  
 
 ---
 
@@ -35,11 +31,6 @@
 - Build and maintain scalable data infrastructure  
 - Automate workflows with cloud-native solutions  
 - Apply AI/vision techniques to real-world systems  
-
----
-
-### 📊 GitHub Overview
-![Hookyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
 
 ---
 
