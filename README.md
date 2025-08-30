@@ -6,7 +6,7 @@
 ---
 
 ### 💼 Experience
-- **Data Engineer @ LG Electronics** *(2023.07 ~ | Magok, Seoul, South Korea)*  
+- **Data Engineer @ LG Electronics** *(Senior Researcher, 2023.07 ~ | Magok, Seoul, South Korea)*
   - Built and optimized ETL/ELT pipelines (Azure, MongoDB, PostgreSQL)  
   - Managed **petabyte-scale, multimodal data pipelines** 
   - Maintained SQL Data Warehouse and improved pipeline reliability 
@@ -15,7 +15,7 @@
   - Stay updated with cutting-edge AI technologies (MCP, A2A, etc.) and apply them to production workflows  
   - Create and manage Power BI dashboards for data-driven insights  
 
-- **Engineer Intern @ KETI** *(2020.01 – 2020.12 | Seongnam, Gyeonggi-do, South Korea)*  
+- **Researcher @ KETI** *(Intern, 2020.01 – 2020.12 | Seongnam, Gyeonggi-do, South Korea)*
   - Worked on Object Detection & Pose Estimation  
   - Applied Data Augmentation to improve model performance  
 ---
