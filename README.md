@@ -1,4 +1,4 @@
-# Hi, I'm Hookyung 👋  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2e49b689-3abf-4add-a82c-63e26cbd7947" />
+# Hi, I'm Hookyung 👋
 [LinkedIn](https://www.linkedin.com/in/gnrud099/) · [Email](mailto:lhookyung@gmail.com)  
 
 **Data & AI Engineering**  
